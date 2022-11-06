@@ -1,0 +1,15 @@
+body {
+  min-height: 100vh;
+}
+
+.header {
+  min-height: 200px;
+}
+
+.main {
+  min-height: calc(100vh - 150px - 200px);
+}
+
+.footer {
+  min-height: 150px;
+}
